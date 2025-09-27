@@ -51,7 +51,7 @@ AI News Hub is a modern news aggregation and summarization platform powered by A
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kstubhieeee/ai-newshub.git
+git https://github.com/Anuragarote/AI-News-Aggregator-.git
 cd ai-newshub
 ```
 
@@ -125,4 +125,4 @@ npm run dev
 
 ---
 
-Created with ❤️ by [Kaustubh Bane](https://github.com/kstubhieeee) 
+ 
